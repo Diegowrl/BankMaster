@@ -20,7 +20,7 @@ Ele se encontra na camada de Infrastructure na pasta database.
 # Observações
 
 Por motivo de tempo alguns items ficaram faltando da lista.
- - Foram realizados testes somente no command que e realizado o calculo, tenho ciencia que vereria ter realizado em todas e controllers.
+ - Foram realizados testes somente no command que e realizado o calculo, tenho ciencia que vereria ter realizado em todas e controllers e acrescentado logging em todas as etapas.
  - Validações no update dependendo da regra de negocio, como não foi passada nenhuma deixei em aberto.
  - O projeto de FrontEnd, tenho conhecimento para realizar mas não tive o tempo necessario.
 
