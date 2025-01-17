@@ -12,6 +12,13 @@ Para realizar o calculo de melhor rota so preencher o body da requisição, não
 
 ![image](https://github.com/user-attachments/assets/c6eb2284-62ed-4a4e-8b0b-8c5c50e27d18)![image](https://github.com/user-attachments/assets/a3247241-d15c-4b6f-92f3-890168296db3)
 
+Foi criado um BD Local dentro do proprio projeto para a realizaçao dos testes.
+Ele se encontra na camada de Infrastructure na pasta database.
+![image](https://github.com/user-attachments/assets/0706064e-3658-4db9-9e00-3217947e68ea)
+![image](https://github.com/user-attachments/assets/dc9b8a2a-be05-4dd2-821b-2274e5babffb)
+
+# Observações
+
 Por motivo de tempo alguns items ficaram faltando da lista.
  - Foram realizados testes somente no command que e realizado o calculo, tenho ciencia que vereria ter realizado em todas e controllers.
  - Validações no update dependendo da regra de negocio, como não foi passada nenhuma deixei em aberto.
