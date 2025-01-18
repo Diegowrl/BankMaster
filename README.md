@@ -3,6 +3,8 @@
 Boa tarde, este e o projeto de backEnd do banco master.
 Foram utilizados os patterns de Mediator e CQRS no projeto zipado, foi realizado um projeto bem completo para mostrar alguns de meus conhecimentos.
 Este projeto poderia ser realizado com apenas um project, mas gostaria de mostrar algo mas robusto e escalavel.
+![image](https://github.com/user-attachments/assets/259aad1e-42aa-49b9-a8e5-364cdf9bf355)
+
 
 Foram criadas 4 rotas de CRUD, e uma rota especifica de BFF aonde e realizada o calculo de melhor rota.
 
